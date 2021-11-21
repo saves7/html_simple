@@ -1,0 +1,32 @@
+
+body {
+   /* background: url("../img/logo_wz.png");*/
+    font-family: notosans, sans-serif;
+    /*font-family: Arial, serif;*/
+
+}
+
+.container {
+    width: 100%;
+    color: red;
+    max-width: 1200px;
+    min-width: 380px;
+    margin: 0 auto;
+}
+
+.section-content {
+    padding: 20px 0;
+    color: green;
+    /*background: url("../img/logo_wz.png");*/
+}
+
+.nav {
+padding: 20px 0;
+display: flex;
+justify-content: space-between;
+}
+
+.section-content__header {
+    padding: 20px 0;
+    text-align: center;
+}
